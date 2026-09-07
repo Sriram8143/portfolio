@@ -13,8 +13,8 @@ const portfolio = {
         backend: ['Node.js', 'Express', 'REST APIs']
     },
     projects: [
-        { id: 1, title: '[PROJECT 1 NAME]', slug: 'project-1', oneLiner: '[ADD ONE-LINER]', problem: '[ADD REAL PROJECT DESCRIPTION]', solution: '[ADD SOLUTION SUMMARY]', tech: ['JavaScript', 'Tailwind', 'HTML'] },
-        { id: 2, title: '[PROJECT 2 NAME]', slug: 'project-2', oneLiner: '[ADD ONE-LINER]', problem: '[ADD REAL PROJECT DESCRIPTION]', solution: '[ADD SOLUTION SUMMARY]', tech: ['Python', 'Flask'] }
+        { id: 1, title: '[HACKATHON PROJECT]', slug: 'project-1', oneLiner: '[]', problem: '[ADD  PROJECT DESCRIPTION]', solution: '[ADD SOLUTION SUMMARY]', tech: ['JavaScript', 'Tailwind', 'HTML'] },
+        { id: 2, title: '[PERSONAL PROJECT]', slug: 'project-2', oneLiner: '[]', problem: '[ADD REAL PROJECT DESCRIPTION]', solution: '[ADD SOLUTION SUMMARY]', tech: ['Python', 'Flask'] }
     ],
     experience: [],
     education: [],
